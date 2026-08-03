@@ -1,5 +1,9 @@
 ![[Pasted image 20260803194013.png|350]]
 
+
+
+# Variable Naming 
+
 |**Rule**|**Allowed?**|
 |---|---|
 |Starts with a letter (`a-z`, `A-Z`)|✅ Yes|
