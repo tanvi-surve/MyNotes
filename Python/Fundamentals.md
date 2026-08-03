@@ -14,3 +14,4 @@
 |Contains special characters (`@`, `#`, `$`, `%`, `!`, etc.)|❌ No|
 |Uses Python keywords (`if`, `for`, `class`, `def`, etc.)|❌ No|
 |Variable names are case-sensitive (`age`, `Age`, `AGE`)|✅ Yes (all are different)|
+sdfsdf
