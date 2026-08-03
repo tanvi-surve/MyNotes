@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -98,7 +100,7 @@
               "type": "backlink",
               "state": {
                 "file": "Python/Fundamentals.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -172,28 +174,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f588c4445b1d2b36",
   "lastOpenFiles": [
     "Media/Pasted image 20260803194013.png",
-    "Media",
-    "Python/PYTHON.md",
-    "Pasted image 20260803193851.png",
+    "README.md",
     "Python/Fundamentals.md",
+    "Python/PYTHON.md",
+    "Media",
+    "Pasted image 20260803193851.png",
     "Python",
     "Git"
   ]
