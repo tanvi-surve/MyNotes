@@ -55,3 +55,4 @@
 | **Identity**                | `is`          | `a is b`             | `True` if both refer to the same object    |
 |                             | `is not`      | `a is not b`         | `True` if they refer to different objects` |
 |                             |               |                      |                                            |
+|                             |               |                      |                                            |

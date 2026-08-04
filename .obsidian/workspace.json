@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Fundamentals.md",
+                "file": "Python/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "Resources"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Fundamentals.md",
+                "file": "Python/Resources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +205,10 @@
   },
   "active": "e9c26b0aa38e7b21",
   "lastOpenFiles": [
-    "Python/Resources.md",
     "Python/Fundamentals.md",
-    "conflict-files-obsidian-git.md",
     "Python/PYTHON.md",
+    "Python/Resources.md",
+    "conflict-files-obsidian-git.md",
     "Media/Pasted image 20260803194013.png",
     "README.md",
     "Media",
