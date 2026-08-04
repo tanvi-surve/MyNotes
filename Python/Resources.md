@@ -37,3 +37,51 @@
 ||`not in`|`'z' not in 'apple'`|`True`|
 |**Identity**|`is`|`a is b`|`True` if both refer to the same object|
 ||`is not`|`a is not b`|`True` if they refer to different objects`|
+
+
+## Patterns
+
+```python
+for i in range(0,5):
+	print(i, end=" ");
+```
+
+```output
+1 2 3 4 5
+```
+
+
+# Approach
+
+```
+*****
+*****
+*****
+*****
+*****
+```
+
+```python
+for i in range(0,5):
+	for j in range(0,5):
+		print("*", end="")
+	print()
+```
+
+|     | j=0 | j=1 | j=2 | j=3 | j=4 |
+| --- | --- | --- | --- | --- | --- |
+| i=0 | *   | *   | *   | *   | *   |
+| i=1 | *   | *   | *   | *   | *   |
+| i=2 | *   | *   | *   | *   | *   |
+| i=3 | *   | *   | *   | *   | *   |
+| i=4 | *   | *   | *   | *   | *   |
+
+---
+
+```
+1
+1 3
+1 3 5 
+1 3 5 7 
+1 3 5 7 9
+```
